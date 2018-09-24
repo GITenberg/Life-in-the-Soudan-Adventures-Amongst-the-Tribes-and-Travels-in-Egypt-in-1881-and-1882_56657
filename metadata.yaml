@@ -1,11 +1,16 @@
 _repo: Life-in-the-Soudan-Adventures-Amongst-the-Tribes-and-Travels-in-Egypt-in-1881-and-1882_56657
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56657-h/images/cover.jpg
 creator:
   author:
     agent_name: Williams, Josiah
     gutenberg_agent_id: '48975'
     url: http://www.gutenberg.org/2009/agents/48975
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56657#Life-in-the-Soudan-Adventures-Amongst-the-Tribes-and-Travels-in-Egypt-in-1881-and-1882
 gutenberg_issued: '2018-02-27'
 gutenberg_type: Text
 identifiers:
